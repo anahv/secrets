@@ -6,4 +6,4 @@ This was a project set up by Udemy's <a href="https://www.udemy.com/course/the-c
 
 Secrets has social login with Google, salting and hashing via Passport.JS.
 
-Other frameworks: Node.js, Express.js, Mongoose
+Other frameworks: Node.js, Express.js, Mongoose, EJS templates
