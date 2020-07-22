@@ -6,4 +6,4 @@ This was a project set up by Udemy's <a href="https://www.udemy.com/course/the-c
 
 Secrets has social login with Google, salting and hashing via Passport.js.
 
-*Tech stack*: Node.js, Express.js, Mongoose, MongoDB, EJS templates, Passport.js, Javascript, HTML, CSS.
+<strong>Tech stack</strong>: Node.js, Express.js, Mongoose, MongoDB, EJS templates, Passport.js, Javascript, HTML, CSS.
